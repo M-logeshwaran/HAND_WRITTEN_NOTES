@@ -384,4 +384,4 @@ Dictionary keys must be immutable.
 Next:
 
 👉 `Start py 05`  
-(Functions & Scope — detailed like your notes 🔥)
+(Functions & Scope — detailed)

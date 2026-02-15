@@ -276,4 +276,4 @@ f-strings provide clean formatting.
 Next:
 
 👉 `Start py 04`  
-(Data Structures: List, Tuple, Dictionary — this one will be detailed like your notes 🔥)
+(Data Structures: List, Tuple, Dictionary — this one will be detailed)

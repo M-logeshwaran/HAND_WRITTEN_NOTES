@@ -313,7 +313,3 @@ Abstraction hides implementation details.
 
 
 ---
-
-Python documentation structure complete.  
-
-If you want improvements, refinements, or add advanced concepts, tell me.

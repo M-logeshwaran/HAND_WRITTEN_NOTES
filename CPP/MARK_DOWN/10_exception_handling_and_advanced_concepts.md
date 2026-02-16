@@ -250,29 +250,3 @@ void show(Test t) {
 * `const` ensures safety.
 
 ```
-
----
-
-Now your C++ repository has:
-
-✔ Structured programming  
-✔ Pointers  
-✔ OOP (full detailed)  
-✔ Exception handling  
-✔ File handling  
-✔ Advanced keywords  
-
-That’s actually solid foundation-level C++ documentation.
-
----
-
-Next big step (since you said STL is ongoing):
-
-We can create:
-
-📄 `11-standard-template-library-stl.md`
-
-And build that properly — containers, iterators, algorithms, etc.
-
-Ready to add STL properly? 😌🔥
-```
